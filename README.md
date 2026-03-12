@@ -28,8 +28,7 @@ Este projeto possui interface simples, pois o foco principal foi a funcionalidad
 
 ### 1. Clonar o repositório
 
-git clone [https://github.com/seu-usuario/django-authentication-with-github-oauth2.git](https://github.com/seu-usuario/django-authentication-with-github-oauth2.git)
-cd django-authentication-with-github-oauth2
+git clone [https://github.com/seu-usuario/django-authentication-with-github-oauth2.git]
 
 ### 2. Criar ambiente virtual
 
